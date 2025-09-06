@@ -36,11 +36,19 @@ Instead of relying on static CSVs, the dashboard connects to the API and pulls *
 ---
 ## 📊 Dashboard Preview  
 
-###  PDF Export  
+<img width="1267" height="704" alt="Weather Forecast Dashboard" src="https://github.com/MithileshKale/Weather-Forecast-Dashboard-Using-API-in-Power-BI-/blob/main/Screenshot.PNG" />
+
+
+##  PDF Export  
 [Download the full dashboard PDF](https://github.com/MithileshKale/Weather-Forecast-Dashboard-Using-API-in-Power-BI-/blob/main/Weather%20Forecast%20Dashboard%20Using%20API/Weather%20Forecast%20Dashboard%20Using%20API.pdf)
 
-###  Video Demo
-<video src="https://github.com/user-attachments/assets/your-uploaded-video-id.mp4" controls></video>
+
+
+## 🎥 Dashboard Video Demo
+
+[![Watch Demo Video](https://img.youtube.com/vi/alcBUkFFVPk/0.jpg)](https://youtu.be/alcBUkFFVPk)
+
+
 
 *Tip: If the video doesn't play, you can download it directly [here](./Weather%20Forecast%20Dashboard%20Using%20API%20Video.mp4).*
 
