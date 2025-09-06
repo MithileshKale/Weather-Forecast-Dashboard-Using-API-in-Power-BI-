@@ -34,4 +34,9 @@ Instead of relying on static CSVs, the dashboard connects to the API and pulls *
 6. Publish the dashboard to **Power BI Service**  
 
 ---
+##  Dashboard Preview
+
+###  PDF Export  
+[Download the full dashboard PDF](https://github.com/MithileshKale/Weather-Forecast-Dashboard-Using-API-in-Power-BI-/blob/main/Weather%20Forecast%20Dashboard%20Using%20API/Weather%20Forecast%20Dashboard%20Using%20API.pdf)
+
 
